@@ -1,2 +1,6 @@
 Documento 1
 Segunda línea
+
+Otra línea
+
+Nueva línea
